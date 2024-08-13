@@ -8,7 +8,7 @@ namespace BinitaLabreport1
 {
     internal class question10
     {
-        static void Main()
+       /* static void Main()
         {
             Console.Write("Enter an alphabet: ");
             char input = Console.ReadKey().KeyChar;
@@ -35,7 +35,7 @@ namespace BinitaLabreport1
             }
             Console.ReadKey();
             Console.Read();
-        }
+        }*/
     }
 }
 

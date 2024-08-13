@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="question10.cs" />
+    <Compile Include="question11.cs" />
     <Compile Include="Question5.cs" />
     <Compile Include="question2.cs" />
     <Compile Include="question3.cs" />
