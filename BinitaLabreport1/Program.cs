@@ -8,13 +8,13 @@ namespace BinitaLabreport1
 {
     internal class Program
     {
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
             Console.Write("Enter your fullname: ");
             string userName = Console.ReadLine();
             Console.WriteLine($"Welcome {userName}, to dotnet technology.");
             Console.ReadKey();
             Console.Read();
-        }
+        }*/
     }
 }
