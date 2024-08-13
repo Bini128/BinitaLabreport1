@@ -3,7 +3,7 @@ namespace BinitaLabreport1
 {
     internal class Question4
     {
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
             Console.Write("Enter the principal amount: ");
             double principal = Convert.ToDouble(Console.ReadLine());
@@ -15,6 +15,6 @@ namespace BinitaLabreport1
             Console.WriteLine($"The simple interest is: {simpleInterest}");
             Console.ReadKey();
             Console.Read();
-        }
+        }*/
     }
     }
