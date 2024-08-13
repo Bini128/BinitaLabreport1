@@ -5,7 +5,7 @@ namespace BinitaLabreport1
 {
     internal class queston12
     {
-        static void Main()
+       /* static void Main()
         {
             Console.WriteLine("Enter the number of subjects:");
             int numberOfSubjects = int.Parse(Console.ReadLine());
@@ -22,7 +22,7 @@ namespace BinitaLabreport1
 
             Console.ReadKey();
             Console.Read();
-        }
+        }*/
 
         static int[] InputMarks(int numberOfSubjects)
         {
