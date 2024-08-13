@@ -1,14 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace BinitaLabreport1
 {
     internal class question3
     {
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
             string name, address, email;
             Console.Write("Enter your name: ");
@@ -23,6 +18,6 @@ namespace BinitaLabreport1
             Console.WriteLine($"Email: {email}");
             Console.ReadKey();
             Console.Read();
-        }
+        }*/
     }
 }

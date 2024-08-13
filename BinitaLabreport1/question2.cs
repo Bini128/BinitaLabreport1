@@ -1,14 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace BinitaLabreport1
 {
     internal class question2
     {
-        static void Main()
+        /*static void Main()
         {
             int num1, num2, num3;
             Console.Write("Enter the first integer: ");
@@ -30,7 +26,7 @@ namespace BinitaLabreport1
             Console.WriteLine($"The sum of {num1}, {num2}, and {num3} is {sum}.");
             Console.ReadKey();
             Console.Read();
-        }
+        }*/
     }
 }
 
