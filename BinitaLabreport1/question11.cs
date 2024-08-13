@@ -1,19 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace BinitaLabreport1
 {
     internal class question11
     {
-        static void Main()
+        /*static void Main()
         {
-            // Input for the first matrix
             var matrixA = InputMatrix("first");
 
-            // Input for the second matrix
             var matrixB = InputMatrix("second");
 
             if (!CanMultiply(matrixA, matrixB))
@@ -21,11 +14,7 @@ namespace BinitaLabreport1
                 Console.WriteLine("Matrix multiplication is not possible. Number of columns of the first matrix must be equal to number of rows of the second matrix.");
                 return;
             }
-
-            // Perform matrix multiplication
             var resultMatrix = MultiplyMatrices(matrixA, matrixB);
-
-            // Display the result
             DisplayMatrix(resultMatrix, "Resulting Matrix");
         }
 
@@ -90,7 +79,7 @@ namespace BinitaLabreport1
         Console.ReadKey();
                 Console.Read();
             }
-
+*/
 }
 
     }
