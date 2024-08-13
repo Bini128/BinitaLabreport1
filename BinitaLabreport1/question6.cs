@@ -8,7 +8,7 @@ namespace BinitaLabreport1
 {
     internal class question6
     {
-        static void Main()
+       /* static void Main()
         {
             Console.Write("Enter the first number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
@@ -21,7 +21,7 @@ namespace BinitaLabreport1
             Console.WriteLine($"After swapping: num1 = {num1}, num2 = {num2}");
             Console.ReadKey();
             Console.Read();
-        }
+        }*/
     }
 }
 
