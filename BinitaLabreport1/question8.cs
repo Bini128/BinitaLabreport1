@@ -8,7 +8,7 @@ namespace BinitaLabreport1
 {
     internal class question8
     {
-        static void Main()
+       /* static void Main()
         {
             Console.Write("Enter a string: ");
             string input = Console.ReadLine();
@@ -20,7 +20,7 @@ namespace BinitaLabreport1
             Console.WriteLine($"Reversed string: {reversedString}");
             Console.ReadKey();
             Console.Read();
-        }
+        }*/
     }
 }
 
